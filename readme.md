@@ -12,6 +12,8 @@ The core of this project is a smart contract deployed on the Ethereum blockchain
 
 ## Contract Address
 0x0823F9d6DCcB476b0477e97De7C6A6664a7E07CF
+![image](https://github.com/user-attachments/assets/4ef83e1b-2f52-4a0e-b613-50c70b83bc73)
+
 ## Project Vision
 The vision of this project is to revolutionize how educational funding decisions are made by utilizing blockchain technology. We aim to:
 
